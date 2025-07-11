@@ -30,8 +30,7 @@ PACKAGING WORKSHOP OFFERED BY VSD CORP.
         4. Wire Bond Creation and Material Assignment
         5. Applying Mold Compound and Finalizing the Package Model
 
-# ---MODULE 1 : 
-               SEMICONDUCTOR PACKAGING : 
+# ---MODULE 1 : SEMICONDUCTOR PACKAGING : 
 	            # ---1.1 :   
 	   >>  Semiconductor packaging helps the finished semiconductor dye in a foundry cleanroom into the real world Which will be used to integrate in the SOC. Key functions of a packages are protection from external environment and electrical connection between the dye and the external environment via leads and mechanical support and connection to the die, thermal dissipation to conduct the heat away from the dye. Semiconductor manufacturing process consist of front end and back end process. In front end wafer manufacturing typically we design and wafer process, In back end package & testing and assemble will come. You can divide them into three flows one is wafer testing second one is package and third one is package testing.
 	           # ---1.2 understanding package requirements and foundational package types : The package requirement selecting the right semiconductor package is a crucial step as it affects the performance cost thermal management size and reliability,
